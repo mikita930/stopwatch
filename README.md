@@ -6,4 +6,4 @@
 * メニューバーの，menuから文字と背景の色を変更
 ![キャプチャ](https://github.com/mikita930/stopwatch/assets/134924913/c1a66762-1c81-4dd7-997b-863a83009efb)
 * helpからマニュアルを確認!
-* [キャプチャ](https://github.com/mikita930/stopwatch/assets/134924913/0385b141-4e22-47e2-b33d-5d8355fbc4d9)
+[キャプチャ](https://github.com/mikita930/stopwatch/assets/134924913/0385b141-4e22-47e2-b33d-5d8355fbc4d9)
